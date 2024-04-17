@@ -6,7 +6,7 @@ This project aims to predict diabetes using data mining techniques and various m
 
 Diabetes is a common chronic disease affecting millions of people worldwide. Predicting diabetes using medical data can help identify individuals at risk and implement appropriate preventive measures. In this project, we explored a diabetes dataset and used data mining techniques along with machine learning models to predict the presence of diabetes.
 
-##Data Cleaning Process
+## Data Cleaning Process
 
 Before building the learning models, we cleaned the data to remove missing values, outliers, and duplicates. Additionally, we encoded the features to improve model performance. We also normalized the features to ensure consistency and enhance the learning process.
 
@@ -29,13 +29,3 @@ We evaluated model performance using metrics such as `accuracy` and `confusion m
 ## Results and Conclusion
 
 Our analysis showed that the RandomForestClassifier model had the best performance for predicting diabetes on this dataset. However, it is important to note that each model has its advantages and limitations, and further analysis may be needed to refine predictions.
-
-## Execution Instructions
-
-To run this code, please follow these steps:
-1. Clone this repository to your local machine.
-2. Ensure you have installed all dependencies listed in the requirements.txt file.
-3. Run the main script to train and evaluate the models.
-
-
-Feel free to customize this README by replacing the generic sections with the specific details of your project. If you have screenshots, code demos, or other relevant resources, feel free to include them in your repository and reference them in your README.
