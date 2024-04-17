@@ -14,6 +14,8 @@ Before building the learning models, we cleaned the data to remove missing value
 
 We employed the ID3 algorithm to construct a decision tree from the diabetes data. The goal was to determine the most important features for predicting diabetes and understand the progression of the decision tree.
 
+![Decision_tree](https://github.com/NANITH777/VM_Odev_ID3_Algorithm/assets/109669139/d2cd2796-0422-44fc-9e18-2bed94bedc45)
+
 ## Data Splitting and Learning Models
 
 The data was split into training and testing sets to assess model performance. We utilized multiple learning models, including `RandomForestClassifier`, `LogisticRegression`, `LinearRegression`, `GaussianNB`, `MultinomialNB`, and `DecisionTreeClassifier`.
