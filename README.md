@@ -24,6 +24,8 @@ The data was split into training and testing sets to assess model performance. W
 
 We evaluated model performance using metrics such as `accuracy` and `confusion matrix`. We also utilized GridSearchCV to find the best parameters for each model and calculated the average of each model to compare their performance.
 
+![cm](https://github.com/NANITH777/VM_Odev_ID3_Algorithm/assets/109669139/9f4b63c6-71a7-4d81-84df-682fc8e730c5)
+
 ## Results and Conclusion
 
 Our analysis showed that the RandomForestClassifier model had the best performance for predicting diabetes on this dataset. However, it is important to note that each model has its advantages and limitations, and further analysis may be needed to refine predictions.
