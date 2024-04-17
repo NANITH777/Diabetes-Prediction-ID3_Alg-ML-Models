@@ -24,6 +24,8 @@ The data was split into training and testing sets to assess model performance. W
 
 We evaluated model performance using metrics such as `accuracy` and `confusion matrix`. We also utilized GridSearchCV to find the best parameters for each model and calculated the average of each model to compare their performance.
 
+<img width="251" alt="GSCV" src="https://github.com/NANITH777/VM_Odev_ID3_Algorithm/assets/109669139/e9391862-b8d0-40e2-a5c3-68e7a45adfb1">
+
 ![cm](https://github.com/NANITH777/VM_Odev_ID3_Algorithm/assets/109669139/9f4b63c6-71a7-4d81-84df-682fc8e730c5)
 
 ## Results and Conclusion
